@@ -1,8 +1,8 @@
 ---
 date: '2021-05-25'
 title: 'Portfolio '
-github: ''
-external: ''
+github: 'https://github.com/VrushaParikh/Portfolio'
+external: 'https://vrushaparikh.netlify.app/'
 tech:
   - HTML
   - CSS
