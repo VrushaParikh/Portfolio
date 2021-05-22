@@ -1,5 +1,5 @@
 ---
-date: '2020-05-17'
+date: '2021-05-17'
 title: 'Black Jack Game'
 github: 'https://github.com/VrushaParikh/BlackJack'
 external: 'https://games.washingtonpost.com/games/blackjack/'
