@@ -4,7 +4,7 @@ module.exports = {
     'Vrusha Parikh is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Vrusha Parikh, Vrusha, Parikh, VrushaParikh, python developer, python, vadodara, svit, vasad ',
-  siteUrl: 'https://VrushaParikh.github.io/',
+  siteUrl: 'https://vrushaparikh.netlify.app',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
