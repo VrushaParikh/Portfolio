@@ -7,4 +7,4 @@ buttonText: 'Get In Touch'
 
 I'm a Tech Enthusiast, actively working to develop myself holistically by gaining practical learning and experience and all-round development through hackathons, competitions, and projects. 
 
-I truly believe in " It's never late until you decide"!
+I truly believe in " It's never too late until you decide"!
