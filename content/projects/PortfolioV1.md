@@ -7,9 +7,9 @@ tech:
   - HTML
   - CSS
   - Javascript
-  - Bootstrap
+  - BootstrapUpdate
   - Gatsby
 showInProjects: true
 ---
 
-Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
+Portfolio Website Version 1 hosted using Netlify. Check this out!
